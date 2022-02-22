@@ -1,0 +1,41 @@
+*body{
+    margin: 0;
+    padding: 0;
+}
+.aseen{
+    background-color: #F7F7F7;
+    background-size: cover;
+    height: 80px;
+    
+}
+.centext{
+    background-color: #F4FAFF;
+    background-size: cover;
+    height: 350px;
+}
+.banner2{
+    width: 450px;
+    height: auto;
+}
+.carousel-inner{
+    margin: auto;
+    width: 700px;
+    height: 400px;
+}
+.last-slider{
+    background-color: #F4FAFF;
+    background-size: cover;
+}
+.bgcol{
+    background-color: #F4F4F4;
+    background-size: cover;
+}
+.lower-botton{
+    position: relative;
+    top: 20px;
+    left: 32%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    width: 250px;
+    height: 60px;
+}
