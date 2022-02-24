@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+.login-btn{
+    padding: 7px 70px 7px 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
 .aseen{
     background-color: #F7F7F7;
     background-size: cover;
@@ -13,29 +18,135 @@
     background-size: cover;
     height: 350px;
 }
+.book-a-demo{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.schedule-a-demo{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
 .banner2{
     width: 450px;
     height: auto;
 }
 .carousel-inner{
     margin: auto;
-    width: 700px;
-    height: 400px;
+    width: 60%;
+    height: auto;
 }
 .last-slider{
     background-color: #F4FAFF;
     background-size: cover;
 }
-.bgcol{
-    background-color: #F4F4F4;
-    background-size: cover;
+
+.logo-bg{
+    background-color: #F7F7F7;
+    height:90px;
+    /* width: 100vw; */
+    overflow: hidden;
 }
-.lower-botton{
-    position: relative;
-    top: 20px;
-    left: 32%;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.logos{
+    text-align: center;
+    overflow: hidden;
+}
+
+.leverage-sec{
+    background-color: #F4FAFF;
+}
+.h1p{
+    text-align: center;
+}
+.h1p img{
+    width: 70%;
+    margin: auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.banner5{
+    text-align: center;
+}
+.lowcta{
+    text-align: center;
+    margin-top: 120px;
+}
+.btn-danger{
+    padding: 13px 50px 13px 50px;
     font-size: 20px;
-    width: 250px;
-    height: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bottom-slider-bg{
+    background-color: #F4FAFF;
+}
+.how-to-start-sec{
+    background-color: #F4F4F4;
+}
+.toph1{
+    text-align: center;
+}
+
+.white-box{
+    background-color: #fff;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.white-box-content{
+    margin: 20px 60px 25px 60px; 
+}
+
+.btn-success{
+    background-color: #41e1bc;
+    border-color: #41e1bc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    padding: 10px 90px 10px 90px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.price{
+    text-align: center;
+}
+.feature-box{
+    width: 300px;
+    height: 250px;
+    background-color: #FCF3F4;
+    border-radius: 10px;
+}
+.feature-box img{
+    margin: 25px;
+}
+.feature-box h4{
+    margin-left: 25px;
+}
+.feature-box p{
+    margin: 0px 30px 0px 25px;
+}
+.icon{
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    text-align: center;
+    background: #fcf3f4;
+    border-radius: 50%;
+    margin: 0 0 30px;
+}
+.last-cta{
+    background-color: #000;
+    height: 250px;
+}
+.last-cta h2{
+    margin-top: 25px;
+    color:#F4F4F4
+}
+.last-cta p{
+    color:#F4F4F4
+}
+.calendar{
+    text-align: center;
+    margin-top: 25px;
+}
+.footer-links li{
+    list-style: none;
+    text-decoration: none;
+}
+.footer-links li a{
+    text-decoration: none;
+    color: #7c7f86;
 }
